@@ -22,6 +22,8 @@ public class Q02 {
 			j = (d - 10) * 0.075 + 10 * 0.1;
 		}
 		
+		
+		
 		System.out.println("½±½ðÎª:" + j);
 	}
 }
