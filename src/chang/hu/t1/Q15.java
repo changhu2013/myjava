@@ -1,7 +1,5 @@
 package chang.hu.t1;
 
-import java.util.Scanner;
-
 public class Q15 {
 
 	/**
